@@ -1,1 +1,1 @@
-# MEDIAI
+# Food-Wastage Website
